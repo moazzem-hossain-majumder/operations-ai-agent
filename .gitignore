@@ -5,3 +5,4 @@ data/processed/
 evals/results.csv
 .DS_Store
 .streamlit/
+venv/
