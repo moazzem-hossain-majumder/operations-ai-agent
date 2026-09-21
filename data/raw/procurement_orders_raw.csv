@@ -1,0 +1,619 @@
+order_id,order_date,business_unit,category,supplier,quantity,unit_price,status,lead_time_days
+PO-2025049,13 May 2026,Steel, Raw Material,Delta Supply Co  ,387,"3,372.60",Delivered,24
+PO-2025582,,Cement, Office Supplies,Delta Supply Co.,347,307.16,Pending,30
+PO-2025082,16/06/2026,Textiles, Raw Material,Delta Supply Co.,77,"৳3,682",Cancelled,14
+PO-2025305,03/07/2025,Real Estate,Logistics,Meghna Traders Ltd.,352,"BDT 1,061.58",Partially Delivered,32
+PO-2025109,06 Nov 2025,Cement, Packaging,Karnaphuli Logistics.,448,"4,407.88",Delivered,7
+PO-2025010,,Cement,PACKAGING,Meghna Traders Ltd,427,"1,503.29",Pending,14
+PO-2025268,23/04/2026,Steel, Office Supplies,Padma Industrial ,345,751.11,Partially Delivered,23
+PO-2025353,03-23-2026,Real Estate,OFFICE SUPPLIES,Padma Industrial  ,380,"2,895.60",Delivered,2
+PO-2025328,08 Mar 2026,Real Estate, Logistics,Karnaphuli Logistics,312,"৳2,711",Cancelled,25
+PO-2025533,08-23-2025,Cement,MACHINERY PARTS,Karnaphuli Logistics,110,"BDT 2,360.43",Cancelled,38
+PO-2025281,12/03/2026,Jute,Office Supplies,Surma Materials Ltd.,453,"BDT 3,052.33",Partially Delivered,42
+PO-2025487,2025-02-03,Steel,Logistics,Surma Materials Ltd,57,BDT 923.48,Pending,37
+PO-2025234,12/12/2025,Steel,  logistics ,Karnaphuli Logistics  ,155,"৳4,446",Cancelled,10
+PO-2025131,12 Apr 2025,Real Estate,MACHINERY PARTS,Padma Industrial ,420,4100.62,Delivered,44
+PO-2025002,01 Sep 2025,Textiles,  office supplies ,Karnaphuli Logistics.,114,"BDT 2,795.19",Pending,4
+PO-2025227,05 Jan 2025,Textiles,  machinery parts ,Karnaphuli Logistics ,361,"BDT 4,593.41",Pending,11
+PO-2025576,07/04/2025,Textiles,LOGISTICS,Jamuna Enterprise ,172,"BDT 4,702.91",Delivered,14
+PO-2025426,,Real Estate,Packaging,Padma Industrial,363,,Cancelled,22
+PO-2025184,18 Dec 2025,Real Estate,  logistics ,Delta Supply Co  ,,"3,189.46",Delivered,39
+PO-2025398,2025-12-20,Steel,  logistics ,Delta Supply Co  ,340,"BDT 3,594.85",Delivered,32
+PO-2025374,10-16-2025,Cement,  office supplies ,Meghna Traders Ltd,340,"BDT 3,863.46",Delivered,13
+PO-2025078,04 Aug 2025,Cement,Machinery Parts,Surma Materials Ltd,499,,Cancelled,41
+PO-2025247,16/06/2025,Cement,Office Supplies,Surma Materials Ltd.,206,"BDT 3,810.23",Cancelled,17
+PO-2025055,,Jute,Packaging,Karnaphuli Logistics  ,-325,497.68,Cancelled,36
+PO-2025220,06/06/2025,Real Estate,  office supplies ,Delta Supply Co  ,96,"4,542.64",Pending,36
+PO-2025523,2025-09-14,Real Estate,PACKAGING,Jamuna Enterprise ,406,"৳1,963",Pending,39
+PO-2025248,,Jute, Packaging,Jamuna Enterprise,403,1470.12,Pending,11
+PO-2025382,2025-04-18,Jute, Logistics,Karnaphuli Logistics ,374,"2,316.59",Cancelled,37
+PO-2025499,,Jute,Raw Material,Meghna Traders Ltd,224,"৳2,917",Delivered,26
+PO-2025552,03-08-2026,Cement,  office supplies ,Surma Materials Ltd.,258,"3,669.14",Partially Delivered,
+PO-2025039,2025-02-27,Real Estate,  office supplies ,Meghna Traders Ltd  ,26,"4,627.97",Delivered,26
+PO-2025145,05-21-2026,Steel,  packaging ,Karnaphuli Logistics ,489,"BDT 3,737.71",Cancelled,28
+PO-2025377,06-05-2025,Jute, Office Supplies,Surma Materials Ltd ,337,BDT 317.57,Delivered,31
+PO-2025077,,Steel,  office supplies ,Surma Materials Ltd,454,"৳2,956",Pending,2
+PO-2025118,,Jute,Logistics,Jamuna Enterprise ,252,1023.87,Cancelled,22
+PO-2025400,,Steel, Machinery Parts,Padma Industrial ,70,"BDT 2,767.32",Delivered,15
+PO-2025148,,Real Estate, Raw Material,Surma Materials Ltd  ,58,"BDT 4,993.12",Delivered,18
+PO-2025331,,Cement,MACHINERY PARTS,Padma Industrial.,188,1898.25,Partially Delivered,10
+PO-2025132,29 Oct 2025,Cement,MACHINERY PARTS,Jamuna Enterprise ,26,"BDT 1,744.90",Delivered,11
+PO-2025215,,Jute,OFFICE SUPPLIES,Meghna Traders Ltd  ,216,1302.52,Partially Delivered,31
+PO-2025584,14/09/2025,Steel,RAW MATERIAL,Jamuna Enterprise.,390,775.78,Cancelled,27
+PO-2025437,,Real Estate, Packaging,Karnaphuli Logistics.,163,"BDT 4,800.42",Pending,8
+PO-2025086,06/05/2026,Cement,MACHINERY PARTS,Padma Industrial  ,-118,"৳3,128",Partially Delivered,
+PO-2025321,,Textiles,Logistics,Karnaphuli Logistics ,346,4468.08,Cancelled,34
+PO-2025336,15 Jan 2026,Textiles,  packaging ,Karnaphuli Logistics  ,117,4191.37,Partially Delivered,19
+PO-2025076,17/07/2025,Real Estate,OFFICE SUPPLIES,Surma Materials Ltd,372,"BDT 1,725.36",Delivered,25
+PO-2025235,,Textiles,PACKAGING,Jamuna Enterprise.,451,"৳4,613",Delivered,18
+PO-2025485,04-22-2025,Cement,  office supplies ,Meghna Traders Ltd.,336,"BDT 3,231.51",Cancelled,22
+PO-2025277,2025-08-12,Real Estate,  packaging ,Surma Materials Ltd.,427,"1,979.95",Pending,
+PO-2025010,,Cement,PACKAGING,Meghna Traders Ltd,427,"1,503.29",Pending,14
+PO-2025208,05-18-2026,Steel,Raw Material,Surma Materials Ltd  ,183,"3,232.84",Partially Delivered,23
+PO-2025465,2026-05-06,Real Estate,  packaging ,Surma Materials Ltd  ,87,"2,843.27",Pending,42
+PO-2025393,21 Dec 2025,Steel,Logistics,Surma Materials Ltd ,6,"BDT 4,933.80",Partially Delivered,7
+PO-2025346,01 Sep 2025,Jute, Packaging,Padma Industrial.,44,"৳3,850",Partially Delivered,19
+PO-2025565,2025-11-02,Jute, Office Supplies,Jamuna Enterprise ,436,"3,035.86",Partially Delivered,
+PO-2025030,,Cement,PACKAGING,Jamuna Enterprise.,143,"BDT 4,627.80",Cancelled,34
+PO-2025573,30/04/2026,Real Estate, Logistics,Delta Supply Co,466,"BDT 4,553.48",Delivered,8
+PO-2025204,13/07/2025,Cement,Office Supplies,Surma Materials Ltd  ,394,779.76,Cancelled,22
+PO-2025311,04-17-2025,Cement,Machinery Parts,Karnaphuli Logistics  ,67,"৳2,515",Partially Delivered,26
+PO-2025511,05/12/2025,Real Estate,  machinery parts ,Surma Materials Ltd  ,54,203.87,Delivered,25
+PO-2025140,29 Mar 2025,Jute,  machinery parts ,Surma Materials Ltd.,389,"৳4,310",Delivered,14
+PO-2025473,2026-01-20,Cement,Machinery Parts,Karnaphuli Logistics ,296,814.50,Pending,7
+PO-2025577,02 Jan 2025,Real Estate,  office supplies ,Karnaphuli Logistics,222,4677.05,Cancelled,28
+PO-2025056,,Textiles, Logistics,Karnaphuli Logistics.,-8,"3,298.53",Pending,41
+PO-2025588,08/04/2025,Steel,  packaging ,Padma Industrial  ,221,,Pending,34
+PO-2025505,2026-01-16,Jute, Packaging,Surma Materials Ltd,309,"3,802.20",Delivered,5
+PO-2025228,2025-02-20,Real Estate,Office Supplies,Delta Supply Co,299,"BDT 4,383.92",Cancelled,19
+PO-2025209,30/09/2025,Jute, Logistics,Jamuna Enterprise.,-395,"2,331.61",Cancelled,21
+PO-2025024,19 Feb 2025,Steel, Logistics,Padma Industrial ,374,4459.42,Partially Delivered,19
+PO-2025478,24 Jun 2025,Cement,Logistics,Surma Materials Ltd,299,"4,109.52",Delivered,18
+PO-2025368,28/02/2025,Textiles,Packaging,Jamuna Enterprise,41,"৳4,416",Pending,20
+PO-2025361,30/12/2025,Jute,RAW MATERIAL,Jamuna Enterprise ,266,1969.93,Cancelled,17
+PO-2025363,2025-06-29,Steel,Packaging,Jamuna Enterprise ,252,"BDT 49,548.20",Partially Delivered,30
+PO-2025468,07/04/2026,Real Estate,  machinery parts ,Jamuna Enterprise ,450,"BDT 28,740.20",Cancelled,19
+PO-2025070,,Jute,Packaging,Karnaphuli Logistics,334,"BDT 1,856.35",Partially Delivered,7
+PO-2025352,07/12/2025,Textiles,Office Supplies,Padma Industrial  ,349,2171.53,Cancelled,24
+PO-2025176,10-31-2025,Real Estate,  office supplies ,Delta Supply Co.,42,,Delivered,3
+PO-2025369,12-19-2025,Cement, Office Supplies,Surma Materials Ltd  ,375,৳548,Pending,41
+PO-2025060,2025-01-30,Jute, Packaging,Padma Industrial ,36,BDT 259.64,Pending,28
+PO-2025599,,Real Estate,OFFICE SUPPLIES,Surma Materials Ltd  ,414,"4,852.18",Delivered,28
+PO-2025101,06-30-2025,Textiles,RAW MATERIAL,Meghna Traders Ltd.,114,1687.14,Delivered,27
+PO-2025203,06-02-2025,Steel,Machinery Parts,Surma Materials Ltd  ,99,"BDT 1,492.08",Pending,34
+PO-2025588,08/04/2025,Steel,  packaging ,Padma Industrial  ,221,,Pending,34
+PO-2025090,23/06/2026,Textiles,MACHINERY PARTS,Padma Industrial,427,"2,996.30",Pending,32
+PO-2025539,08 Apr 2025,Cement, Machinery Parts,Meghna Traders Ltd  ,178,3219.86,Cancelled,24
+PO-2025470,2026-05-12,Steel, Packaging,Delta Supply Co  ,446,"BDT 3,066.68",Pending,34
+PO-2025567,12-20-2025,Textiles,  raw material ,Delta Supply Co,318,"৳4,149",Delivered,35
+PO-2025029,,Cement, Packaging,Padma Industrial ,217,"৳4,641",Partially Delivered,7
+PO-2025110,06-09-2025,Textiles, Machinery Parts,Karnaphuli Logistics.,172,4189.41,Delivered,30
+PO-2025509,,Steel,  logistics ,Delta Supply Co ,394,"4,681.63",Partially Delivered,29
+PO-2025212,2025-07-06,Textiles,LOGISTICS,Delta Supply Co.,497,"৳1,517",Cancelled,25
+PO-2025544,2026-05-07,Steel,  logistics ,Karnaphuli Logistics,441,,Cancelled,9
+PO-2025322,10-16-2025,Cement, Logistics,Delta Supply Co  ,466,"৳3,425",Partially Delivered,18
+PO-2025289,2025-08-01,Cement,OFFICE SUPPLIES,Surma Materials Ltd.,425,4403.09,Delivered,20
+PO-2025529,2025-04-19,Textiles,  office supplies ,Surma Materials Ltd,494,"৳4,737",Partially Delivered,44
+PO-2025462,,Cement, Logistics,Delta Supply Co.,148,"4,516.40",Delivered,
+PO-2025452,2025-06-04,Steel,Machinery Parts,Jamuna Enterprise ,70,"৳4,616",Cancelled,39
+PO-2025155,2026-04-05,Steel,Machinery Parts,Padma Industrial,387,৳222,Delivered,13
+PO-2025081,,Real Estate, Machinery Parts,Karnaphuli Logistics  ,433,৳615,Cancelled,6
+PO-2025250,06-13-2025,Jute, Office Supplies,Delta Supply Co ,469,"4,928.82",Pending,20
+PO-2025594,07/11/2025,Steel,MACHINERY PARTS,Karnaphuli Logistics ,138,"4,395.67",Cancelled,15
+PO-2025238,,Textiles,MACHINERY PARTS,Surma Materials Ltd,210,"1,340.48",Partially Delivered,36
+PO-2025405,12/12/2025,Cement,LOGISTICS,Surma Materials Ltd ,189,"৳3,960",Pending,32
+PO-2025063,05-09-2026,Jute, Logistics,Delta Supply Co ,237,640.13,Cancelled,19
+PO-2025271,04-03-2026,Real Estate, Office Supplies,Padma Industrial,265,2987.90,Pending,6
+PO-2025072,03-31-2025,Jute, Machinery Parts,Delta Supply Co  ,209,"৳4,946",Delivered,37
+PO-2025256,,Cement,Raw Material,Jamuna Enterprise ,404,"3,637.84",Delivered,30
+PO-2025554,,Real Estate, Logistics,Delta Supply Co,27,"2,398.36",Pending,18
+PO-2025335,2026-05-23,Steel,Raw Material,Delta Supply Co  ,329,"BDT 2,685.46",Delivered,42
+PO-2025578,01-23-2025,Textiles, Raw Material,Padma Industrial  ,309,BDT 341.63,Partially Delivered,11
+PO-2025399,14/04/2025,Textiles,MACHINERY PARTS,Padma Industrial.,34,"BDT 1,244.40",Delivered,41
+PO-2025260,15 May 2026,Cement,Machinery Parts,Karnaphuli Logistics  ,218,,Cancelled,10
+PO-2025135,06/09/2025,Cement, Logistics,Meghna Traders Ltd  ,152,3018.49,Delivered,30
+PO-2025340,,Textiles,LOGISTICS,Meghna Traders Ltd.,264,"1,907.63",Partially Delivered,12
+PO-2025110,06-09-2025,Textiles, Machinery Parts,Karnaphuli Logistics.,172,4189.41,Delivered,30
+PO-2025211,12-27-2025,Steel,RAW MATERIAL,Meghna Traders Ltd.,436,"4,455.00",Partially Delivered,20
+PO-2025541,23 Dec 2025,Jute,  logistics ,Delta Supply Co  ,121,"1,362.13",Cancelled,23
+PO-2025299,2025-06-22,Textiles,  packaging ,Meghna Traders Ltd.,469,2709.00,Cancelled,17
+PO-2025480,08/06/2025,Real Estate,Machinery Parts,Jamuna Enterprise  ,223,1673.95,Partially Delivered,36
+PO-2025006,24 Aug 2025,Real Estate,  machinery parts ,Surma Materials Ltd,402,"1,968.02",Delivered,
+PO-2025104,03-29-2025,Textiles,Office Supplies,Karnaphuli Logistics ,448,"BDT 4,284.68",Partially Delivered,35
+PO-2025114,2026-04-09,Real Estate,OFFICE SUPPLIES,Surma Materials Ltd.,491,1100.13,Cancelled,41
+PO-2025158,06/03/2025,Cement, Office Supplies,Karnaphuli Logistics ,380,922.64,Delivered,5
+PO-2025181,2026-01-30,Cement,  office supplies ,Surma Materials Ltd.,437,168.65,Partially Delivered,6
+PO-2025531,,Real Estate, Packaging,Delta Supply Co.,73,"৳2,633",Partially Delivered,31
+PO-2025364,10 Aug 2025,Cement, Packaging,Karnaphuli Logistics,214,3717.04,Delivered,
+PO-2025177,05-21-2026,Jute,Logistics,Surma Materials Ltd  ,166,"4,399.88",Delivered,8
+PO-2025593,2025-07-20,Real Estate,  logistics ,Delta Supply Co.,373,"BDT 2,858.43",Delivered,
+PO-2025199,02/06/2025,Textiles, Machinery Parts,Meghna Traders Ltd.,238,BDT 348.64,Delivered,10
+PO-2025421,09 Apr 2026,Real Estate,  raw material ,Padma Industrial,148,54.08,Partially Delivered,9
+PO-2025300,,Cement,Office Supplies,Surma Materials Ltd,99,"৳1,346",Partially Delivered,2
+PO-2025408,22 Feb 2025,Jute,Packaging,Surma Materials Ltd.,412,3925.05,Cancelled,29
+PO-2025396,08/06/2026,Cement,Packaging,Padma Industrial ,455,"BDT 2,981.28",Partially Delivered,6
+PO-2025286,16 Sep 2025,Textiles, Machinery Parts,Jamuna Enterprise ,447,2200.03,Pending,41
+PO-2025257,,Real Estate, Packaging,Jamuna Enterprise ,180,,Cancelled,25
+PO-2025259,,Jute,  packaging ,Meghna Traders Ltd  ,123,৳261,Delivered,26
+PO-2025055,,Jute,Packaging,Karnaphuli Logistics  ,-325,497.68,Cancelled,36
+PO-2025042,07-18-2025,Cement,  raw material ,Delta Supply Co.,253,1671.10,Partially Delivered,17
+PO-2025073,04-01-2026,Jute,  raw material ,Surma Materials Ltd,196,BDT 446.24,Delivered,12
+PO-2025537,17/12/2025,Steel,  packaging ,Jamuna Enterprise ,126,2291.22,Cancelled,20
+PO-2025066,20 Jun 2025,Cement, Logistics,Jamuna Enterprise.,123,"2,768.26",Delivered,35
+PO-2025011,,Real Estate, Machinery Parts,Padma Industrial ,407,৳877,Cancelled,40
+PO-2025163,2026-04-01,Steel,  machinery parts ,Karnaphuli Logistics ,33,BDT 55.28,Delivered,6
+PO-2025443,2026-03-01,Real Estate,Office Supplies,Karnaphuli Logistics  ,308,"BDT 1,494.88",Cancelled,16
+PO-2025210,2025-11-03,Real Estate, Machinery Parts,Meghna Traders Ltd ,381,"৳4,191",Cancelled,25
+PO-2025332,2025-01-21,Real Estate, Office Supplies,Padma Industrial,408,"1,947.55",Cancelled,10
+PO-2025083,,Cement,  logistics ,Delta Supply Co  ,245,4928.42,Cancelled,11
+PO-2025278,,Textiles, Raw Material,Meghna Traders Ltd.,196,"1,040.91",Pending,19
+PO-2025448,18 Jan 2025,Steel,Machinery Parts,Surma Materials Ltd ,263,৳242,Partially Delivered,6
+PO-2025079,2026-01-09,Real Estate,LOGISTICS,Surma Materials Ltd,-224,"1,572.30",Partially Delivered,32
+PO-2025023,2025-10-06,Cement,RAW MATERIAL,Padma Industrial,452,"BDT 4,683.42",Pending,13
+PO-2025287,21 Jun 2026,Steel, Packaging,Jamuna Enterprise.,223,BDT 511.69,Pending,35
+PO-2025301,24 Jul 2025,Cement,RAW MATERIAL,Karnaphuli Logistics,145,"4,832.70",Partially Delivered,27
+PO-2025280,20/08/2025,Jute,Office Supplies,Meghna Traders Ltd,171,242.95,Delivered,14
+PO-2025244,02-08-2025,Real Estate,MACHINERY PARTS,Jamuna Enterprise,205,"BDT 2,433.88",Partially Delivered,24
+PO-2025290,,Cement,  packaging ,Karnaphuli Logistics  ,209,1323.99,Cancelled,22
+PO-2025329,2026-01-02,Real Estate,  office supplies ,Surma Materials Ltd  ,166,"BDT 2,981.76",Pending,5
+PO-2025137,,Steel,Raw Material,Surma Materials Ltd  ,86,4740.30,Pending,15
+PO-2025188,06-05-2026,Textiles,Packaging,Padma Industrial,100,"BDT 4,343.15",Cancelled,6
+PO-2025165,,Textiles,Office Supplies,Meghna Traders Ltd  ,107,540.83,Partially Delivered,9
+PO-2025296,,Textiles,LOGISTICS,Karnaphuli Logistics  ,44,614.39,Partially Delivered,33
+PO-2025009,,Real Estate,PACKAGING,Padma Industrial ,152,৳203,Cancelled,37
+PO-2025196,08-23-2025,Cement,Machinery Parts,Padma Industrial  ,404,"BDT 3,623.44",Pending,11
+PO-2025231,01-17-2025,Jute,  logistics ,Jamuna Enterprise  ,420,4728.48,Cancelled,19
+PO-2025319,,Textiles,  machinery parts ,Delta Supply Co,23,"3,752.95",Pending,
+PO-2025181,2026-01-30,Cement,  office supplies ,Surma Materials Ltd.,437,168.65,Partially Delivered,6
+PO-2025265,01/03/2026,Textiles, Raw Material,Delta Supply Co  ,121,"৳3,112",Cancelled,21
+PO-2025084,27 Oct 2025,Steel,Machinery Parts,Karnaphuli Logistics ,270,"4,627.27",Delivered,36
+PO-2025174,31/10/2025,Steel,PACKAGING,Padma Industrial ,379,"BDT 1,324.24",Pending,34
+PO-2025547,07/02/2026,Steel, Logistics,Padma Industrial,382,"4,187.81",Partially Delivered,16
+PO-2025218,,Steel,  logistics ,Padma Industrial,263,"3,467.49",Pending,29
+PO-2025316,2025-12-26,Jute,Office Supplies,Karnaphuli Logistics,459,"৳1,353",Cancelled,31
+PO-2025490,2025-07-31,Jute,  logistics ,Surma Materials Ltd,120,2128.06,Pending,38
+PO-2025390,12/05/2025,Textiles,RAW MATERIAL,Jamuna Enterprise,,BDT 220.63,Cancelled,38
+PO-2025213,02-02-2025,Cement,  raw material ,Surma Materials Ltd,417,"৳3,423",Pending,35
+PO-2025153,21/05/2026,Real Estate, Packaging,Jamuna Enterprise  ,208,"৳1,642",Partially Delivered,26
+PO-2025075,,Jute,RAW MATERIAL,Karnaphuli Logistics  ,122,4225.76,Pending,33
+PO-2025092,,Real Estate,MACHINERY PARTS,Jamuna Enterprise ,481,"৳2,727",Delivered,34
+PO-2025430,05-18-2025,Textiles,PACKAGING,Jamuna Enterprise ,178,114.32,Delivered,14
+PO-2025068,24 Sep 2025,Steel,  machinery parts ,Jamuna Enterprise.,21,৳407,Pending,6
+PO-2025015,25 Jan 2026,Real Estate,RAW MATERIAL,Surma Materials Ltd  ,153,"BDT 2,917.14",Delivered,15
+PO-2025192,29/04/2025,Jute,  machinery parts ,Jamuna Enterprise ,192,"৳4,684",Cancelled,24
+PO-2025375,,Jute, Office Supplies,Delta Supply Co,320,"৳3,669",Pending,16
+PO-2025088,2025-06-11,Steel,  machinery parts ,Delta Supply Co  ,355,2014.85,Delivered,27
+PO-2025518,11/11/2025,Real Estate,OFFICE SUPPLIES,Surma Materials Ltd.,,20909.40,Pending,24
+PO-2025117,18/05/2026,Textiles, Packaging,Karnaphuli Logistics,443,"৳2,003",Cancelled,26
+PO-2025409,30 Sep 2025,Jute,OFFICE SUPPLIES,Jamuna Enterprise.,135,"3,009.01",Cancelled,41
+PO-2025434,10/06/2025,Jute,MACHINERY PARTS,Meghna Traders Ltd.,173,"৳4,019",Cancelled,42
+PO-2025033,11 Feb 2026,Real Estate,Office Supplies,Padma Industrial ,301,"BDT 2,092.23",Delivered,24
+PO-2025000,18/02/2025,Cement,  raw material ,Surma Materials Ltd ,387,"2,222.45",Delivered,32
+PO-2025118,,Jute,Logistics,Jamuna Enterprise ,252,1023.87,Cancelled,22
+PO-2025553,06 May 2026,Steel,OFFICE SUPPLIES,Surma Materials Ltd.,63,"BDT 4,287.06",Pending,
+PO-2025369,12-19-2025,Cement, Office Supplies,Surma Materials Ltd  ,375,৳548,Pending,41
+PO-2025355,,Steel,  packaging ,Surma Materials Ltd  ,197,"৳2,849",Partially Delivered,26
+PO-2025453,10/10/2025,Jute, Office Supplies,Jamuna Enterprise  ,220,,Cancelled,39
+PO-2025551,,Real Estate,Machinery Parts,Jamuna Enterprise,399,"৳4,441",Cancelled,26
+PO-2025022,18 Mar 2025,Textiles,  raw material ,Delta Supply Co ,277,"BDT 1,886.07",Delivered,28
+PO-2025472,2025-09-19,Jute,Logistics,Jamuna Enterprise ,242,৳132,Cancelled,4
+PO-2025116,07 Mar 2026,Real Estate, Logistics,Delta Supply Co.,-251,"1,061.77",Cancelled,6
+PO-2025089,,Real Estate,PACKAGING,Padma Industrial  ,359,4046.79,Delivered,10
+PO-2025182,07-23-2025,Real Estate,OFFICE SUPPLIES,Karnaphuli Logistics  ,395,248.47,Partially Delivered,28
+PO-2025495,2025-05-12,Jute,  packaging ,Karnaphuli Logistics.,211,"BDT 3,437.31",Partially Delivered,26
+PO-2025411,22/02/2025,Real Estate,Machinery Parts,Karnaphuli Logistics ,434,4538.70,Pending,11
+PO-2025018,2025-11-16,Real Estate,MACHINERY PARTS,Jamuna Enterprise  ,148,"BDT 4,794.87",Pending,2
+PO-2025428,2025-06-17,Textiles,RAW MATERIAL,Karnaphuli Logistics.,461,,Delivered,11
+PO-2025535,05-25-2025,Jute,OFFICE SUPPLIES,Delta Supply Co,179,4266.75,Pending,19
+PO-2025144,2025-10-22,Steel,  packaging ,Padma Industrial ,352,3179.40,Pending,23
+PO-2025302,19/06/2026,Textiles,  raw material ,Meghna Traders Ltd  ,349,4934.22,Cancelled,3
+PO-2025565,2025-11-02,Jute, Office Supplies,Jamuna Enterprise ,436,"3,035.86",Partially Delivered,
+PO-2025557,18 Jan 2025,Jute,  logistics ,Jamuna Enterprise.,125,146.06,Delivered,14
+PO-2025425,01-03-2025,Textiles, Logistics,Jamuna Enterprise,19,"৳4,688",Partially Delivered,23
+PO-2025272,2026-02-27,Real Estate, Logistics,Meghna Traders Ltd ,417,৳160,Partially Delivered,42
+PO-2025261,22/01/2026,Jute, Office Supplies,Karnaphuli Logistics  ,485,"৳4,534",Pending,42
+PO-2025362,04-03-2025,Cement,  machinery parts ,Delta Supply Co,279,"BDT 4,861.37",Partially Delivered,29
+PO-2025429,01/03/2025,Jute,Packaging,Karnaphuli Logistics,490,"৳1,791",Cancelled,6
+PO-2025167,01-18-2025,Steel,PACKAGING,Padma Industrial,464,544.16,Delivered,43
+PO-2025054,01 Mar 2025,Steel,  logistics ,Surma Materials Ltd ,196,"4,402.04",Partially Delivered,44
+PO-2025441,16 Sep 2025,Cement,LOGISTICS,Karnaphuli Logistics  ,67,"৳4,715",Partially Delivered,
+PO-2025046,11-17-2025,Textiles, Logistics,Meghna Traders Ltd ,223,3985.82,Cancelled,35
+PO-2025093,,Steel, Logistics,Meghna Traders Ltd,265,"BDT 3,724.47",Delivered,9
+PO-2025304,2025-01-25,Steel, Raw Material,Surma Materials Ltd.,19,"BDT 2,803.14",Partially Delivered,40
+PO-2025108,,Steel,Machinery Parts,Delta Supply Co.,-397,"BDT 49,592.80",Partially Delivered,23
+PO-2025292,,Textiles, Office Supplies,Delta Supply Co  ,85,"4,100.23",Cancelled,18
+PO-2025195,,Steel,RAW MATERIAL,Jamuna Enterprise ,189,"BDT 3,865.33",Partially Delivered,8
+PO-2025212,2025-07-06,Textiles,LOGISTICS,Delta Supply Co.,497,"৳1,517",Cancelled,25
+PO-2025513,06/01/2026,Real Estate,Raw Material,Meghna Traders Ltd,492,"৳3,985",Pending,3
+PO-2025467,,Jute,  raw material ,Surma Materials Ltd,428,"BDT 3,069.62",Partially Delivered,19
+PO-2025370,30/01/2025,Textiles,MACHINERY PARTS,Surma Materials Ltd,420,"BDT 4,955.45",Cancelled,27
+PO-2025407,2025-07-30,Jute,OFFICE SUPPLIES,Jamuna Enterprise.,375,"BDT 4,878.25",Pending,22
+PO-2025007,2026-03-07,Textiles, Machinery Parts,Meghna Traders Ltd  ,393,3341.01,Partially Delivered,12
+PO-2025412,03/03/2025,Steel, Office Supplies,Surma Materials Ltd  ,125,"BDT 3,915.55",Pending,30
+PO-2025423,01-22-2026,Cement,  machinery parts ,Jamuna Enterprise ,39,"BDT 3,468.70",Delivered,27
+PO-2025284,14 Aug 2025,Jute,  machinery parts ,Delta Supply Co.,,"BDT 1,728.09",Partially Delivered,27
+PO-2025275,2025-01-11,Real Estate,RAW MATERIAL,Meghna Traders Ltd.,66,৳306,Pending,2
+PO-2025581,18 Oct 2025,Textiles,Logistics,Karnaphuli Logistics  ,365,"BDT 4,750.70",Cancelled,44
+PO-2025069,,Steel,LOGISTICS,Jamuna Enterprise.,157,"BDT 37,263.30",Pending,12
+PO-2025264,29/04/2025,Cement,  logistics ,Surma Materials Ltd.,364,"BDT 4,715.71",Cancelled,21
+PO-2025432,09/05/2025,Jute,Raw Material,Delta Supply Co,56,"৳2,616",Pending,12
+PO-2025298,2025-02-25,Real Estate,Raw Material,Karnaphuli Logistics,170,"BDT 3,294.52",Partially Delivered,38
+PO-2025249,,Real Estate, Packaging,Karnaphuli Logistics  ,263,"3,213.18",Pending,11
+PO-2025572,,Textiles,  raw material ,Surma Materials Ltd,-428,1481.06,Pending,3
+PO-2025274,2026-06-18,Cement, Packaging,Karnaphuli Logistics  ,95,"BDT 2,289.91",Delivered,2
+PO-2025149,06 Jun 2025,Jute,OFFICE SUPPLIES,Padma Industrial.,490,BDT 394.72,Delivered,21
+PO-2025124,06 Apr 2026,Steel, Logistics,Padma Industrial ,188,3688.89,Pending,27
+PO-2025469,08-20-2025,Jute,  office supplies ,Jamuna Enterprise,405,3422.79,Partially Delivered,21
+PO-2025530,2025-05-28,Steel,  raw material ,Meghna Traders Ltd  ,466,BDT 497.28,Delivered,16
+PO-2025185,,Real Estate,  packaging ,Delta Supply Co,479,249.98,Cancelled,34
+PO-2025333,08-06-2025,Jute,RAW MATERIAL,Meghna Traders Ltd  ,97,4620.35,Partially Delivered,4
+PO-2025312,,Jute,  packaging ,Delta Supply Co.,345,"৳4,348",Delivered,24
+PO-2025477,09 Jan 2025,Textiles,  packaging ,Padma Industrial,241,"BDT 4,194.15",Cancelled,14
+PO-2025310,2026-04-01,Cement,Office Supplies,Surma Materials Ltd.,17,381.54,Pending,7
+PO-2025349,13 May 2026,Real Estate,Raw Material,Delta Supply Co.,409,"2,489.55",Pending,25
+PO-2025031,15/08/2025,Jute,  office supplies ,Surma Materials Ltd  ,4,"৳3,000",Pending,
+PO-2025586,,Jute,MACHINERY PARTS,Meghna Traders Ltd  ,150,2384.43,Pending,11
+PO-2025506,,Jute,Logistics,Surma Materials Ltd,262,4642.90,Partially Delivered,31
+PO-2025568,,Real Estate,  office supplies ,Meghna Traders Ltd  ,11,"BDT 1,019.07",Partially Delivered,2
+PO-2025486,15/11/2025,Steel,Logistics,Meghna Traders Ltd  ,153,"BDT 4,119.53",Cancelled,
+PO-2025141,2025-06-03,Jute,OFFICE SUPPLIES,Jamuna Enterprise ,141,"4,556.12",Partially Delivered,31
+PO-2025019,2025-08-27,Cement, Packaging,Karnaphuli Logistics,468,"BDT 2,880.05",Pending,14
+PO-2025172,31 Jul 2025,Textiles,Logistics,Karnaphuli Logistics.,386,"৳2,283",Cancelled,16
+PO-2025483,2025-10-07,Steel, Logistics,Delta Supply Co ,307,4456.78,Partially Delivered,14
+PO-2025482,21 May 2026,Cement,  raw material ,Jamuna Enterprise  ,386,758.82,Pending,2
+PO-2025025,,Jute,PACKAGING,Meghna Traders Ltd.,443,"BDT 3,746.61",Partially Delivered,6
+PO-2025446,2025-07-09,Cement,LOGISTICS,Delta Supply Co  ,167,"4,421.48",Cancelled,24
+PO-2025589,22 Feb 2026,Cement,Raw Material,Meghna Traders Ltd,234,"৳2,998",Partially Delivered,29
+PO-2025284,14 Aug 2025,Jute,  machinery parts ,Delta Supply Co.,,"BDT 1,728.09",Partially Delivered,27
+PO-2025318,10 Jan 2026,Jute,  raw material ,Surma Materials Ltd.,-483,1225.80,Pending,38
+PO-2025245,15 Nov 2025,Real Estate, Machinery Parts,Surma Materials Ltd  ,-91,"BDT 1,123.73",Pending,32
+PO-2025338,,Real Estate,Packaging,Jamuna Enterprise ,,"৳3,120",Pending,9
+PO-2025154,2026-04-20,Jute,LOGISTICS,Surma Materials Ltd.,457,,Cancelled,6
+PO-2025126,,Textiles,LOGISTICS,Surma Materials Ltd,325,"2,276.80",Partially Delivered,19
+PO-2025367,27 Feb 2026,Textiles,  packaging ,Meghna Traders Ltd.,89,BDT 973.98,Cancelled,10
+PO-2025113,,Jute,  logistics ,Jamuna Enterprise.,444,2005.29,Pending,41
+PO-2025173,2026-06-08,Steel,Packaging,Delta Supply Co ,173,1924.03,Cancelled,35
+PO-2025057,2026-06-05,Real Estate,LOGISTICS,Surma Materials Ltd  ,120,4254.57,Delivered,37
+PO-2025344,19 Jul 2025,Textiles,  logistics ,Surma Materials Ltd.,273,3118.58,Cancelled,
+PO-2025222,2025-12-12,Jute,OFFICE SUPPLIES,Padma Industrial.,217,"BDT 1,094.13",Partially Delivered,35
+PO-2025017,23/12/2025,Steel,OFFICE SUPPLIES,Karnaphuli Logistics ,73,561.84,Delivered,28
+PO-2025320,,Jute,Machinery Parts,Jamuna Enterprise  ,297,"4,956.66",Cancelled,11
+PO-2025255,02/09/2025,Cement,Office Supplies,Surma Materials Ltd ,401,44706.10,Pending,40
+PO-2025327,,Steel, Packaging,Delta Supply Co,241,2935.74,Partially Delivered,19
+PO-2025591,05 Feb 2026,Real Estate,  machinery parts ,Jamuna Enterprise,339,1559.53,Partially Delivered,23
+PO-2025190,18/09/2025,Jute, Raw Material,Jamuna Enterprise  ,228,"1,962.39",Partially Delivered,21
+PO-2025341,,Real Estate,  raw material ,Delta Supply Co  ,,"4,752.51",Delivered,29
+PO-2025543,,Steel, Packaging,Surma Materials Ltd.,352,849.68,Cancelled,37
+PO-2025291,,Cement,  packaging ,Padma Industrial ,482,"BDT 4,850.37",Partially Delivered,13
+PO-2025094,2025-03-25,Textiles,  packaging ,Karnaphuli Logistics,174,"1,452.07",Partially Delivered,39
+PO-2025180,2025-08-18,Steel, Office Supplies,Jamuna Enterprise,467,2117.22,Cancelled,17
+PO-2025395,03-06-2026,Steel, Machinery Parts,Jamuna Enterprise  ,-259,"1,715.09",Pending,30
+PO-2025354,25/12/2025,Textiles,  logistics ,Meghna Traders Ltd ,85,"4,965.84",Pending,38
+PO-2025550,09-28-2025,Jute,  packaging ,Meghna Traders Ltd,170,"1,375.98",Pending,35
+PO-2025334,,Textiles,Office Supplies,Jamuna Enterprise.,249,217.70,Partially Delivered,27
+PO-2025005,,Steel,Office Supplies,Delta Supply Co.,165,"BDT 3,365.58",Delivered,11
+PO-2025045,10 Dec 2025,Textiles,  raw material ,Delta Supply Co ,48,"৳3,642",Pending,19
+PO-2025574,2025-04-16,Textiles,Logistics,Karnaphuli Logistics  ,38,"৳2,970",Pending,14
+PO-2025416,03/01/2026,Real Estate,PACKAGING,Padma Industrial,128,"3,570.26",Delivered,36
+PO-2025525,2025-10-17,Steel,LOGISTICS,Padma Industrial.,373,737.31,Delivered,
+PO-2025016,2025-12-05,Steel,LOGISTICS,Padma Industrial ,70,"৳3,267",Delivered,27
+PO-2025048,2025-09-23,Steel,  machinery parts ,Padma Industrial.,118,4659.62,Cancelled,27
+PO-2025597,24/04/2025,Real Estate, Packaging,Meghna Traders Ltd.,484,915.84,Pending,6
+PO-2025563,16/02/2026,Cement,Raw Material,Padma Industrial ,349,"৳1,816",Partially Delivered,16
+PO-2025003,09/06/2026,Jute, Office Supplies,Delta Supply Co  ,223,"BDT 3,903.00",Cancelled,40
+PO-2025349,13 May 2026,Real Estate,Raw Material,Delta Supply Co.,409,"2,489.55",Pending,25
+PO-2025555,2026-06-17,Jute,PACKAGING,Padma Industrial ,125,,Pending,3
+PO-2025469,08-20-2025,Jute,  office supplies ,Jamuna Enterprise,405,3422.79,Partially Delivered,21
+PO-2025388,05-18-2026,Cement,  office supplies ,Jamuna Enterprise  ,154,"BDT 4,985.49",Cancelled,8
+PO-2025464,2026-03-17,Textiles, Office Supplies,Padma Industrial ,220,"2,263.27",Cancelled,20
+PO-2025394,,Cement,  office supplies ,Karnaphuli Logistics ,269,"BDT 4,790.58",Cancelled,36
+PO-2025225,08-17-2025,Real Estate,  raw material ,Meghna Traders Ltd ,59,1229.78,Cancelled,43
+PO-2025026,2026-04-27,Jute, Raw Material,Surma Materials Ltd  ,77,BDT 937.38,Delivered,15
+PO-2025583,05 Dec 2025,Steel,Logistics,Surma Materials Ltd.,371,"৳1,252",Delivered,18
+PO-2025263,10/10/2025,Steel, Office Supplies,Surma Materials Ltd.,236,2573.66,Cancelled,18
+PO-2025050,2025-06-19,Cement,Machinery Parts,Padma Industrial.,157,781.53,Cancelled,8
+PO-2025229,,Textiles,OFFICE SUPPLIES,Jamuna Enterprise  ,151,"BDT 3,862.46",Partially Delivered,
+PO-2025037,2026-03-24,Jute,  office supplies ,Karnaphuli Logistics  ,159,"BDT 2,547.40",Pending,11
+PO-2025157,2025-04-19,Jute,MACHINERY PARTS,Surma Materials Ltd  ,252,"৳3,764",Cancelled,43
+PO-2025237,08-10-2025,Cement,Machinery Parts,Jamuna Enterprise,441,"৳3,210",Partially Delivered,4
+PO-2025592,,Jute,  office supplies ,Meghna Traders Ltd.,-94,733.62,Delivered,6
+PO-2025175,21/12/2025,Real Estate, Packaging,Surma Materials Ltd.,,"BDT 1,992.80",Partially Delivered,41
+PO-2025519,,Cement,Packaging,Padma Industrial.,234,"BDT 2,344.95",Cancelled,32
+PO-2025436,2025-03-27,Steel,Office Supplies,Meghna Traders Ltd  ,348,405.30,Partially Delivered,16
+PO-2025194,,Textiles,Machinery Parts,Jamuna Enterprise ,326,4746.77,Partially Delivered,39
+PO-2025521,06-17-2025,Jute,Packaging,Meghna Traders Ltd  ,20,710.80,Partially Delivered,19
+PO-2025383,08/03/2025,Textiles,Machinery Parts,Meghna Traders Ltd,421,"BDT 2,806.82",Delivered,
+PO-2025596,06-30-2025,Jute, Machinery Parts,Delta Supply Co ,340,"৳2,941",Pending,8
+PO-2025527,05-16-2026,Cement,Machinery Parts,Surma Materials Ltd,93,994.88,Pending,39
+PO-2025067,29 Oct 2025,Textiles, Logistics,Jamuna Enterprise.,443,"BDT 4,609.23",Delivered,18
+PO-2025414,24/05/2025,Real Estate, Packaging,Jamuna Enterprise,42,"1,981.87",Delivered,32
+PO-2025168,,Jute,  logistics ,Padma Industrial  ,52,2654.00,Delivered,37
+PO-2025500,05 Mar 2026,Real Estate,  office supplies ,Surma Materials Ltd.,221,"1,095.41",Cancelled,10
+PO-2025162,,Real Estate,PACKAGING,Jamuna Enterprise ,174,"৳1,958",Cancelled,26
+PO-2025309,27 Jul 2025,Real Estate,PACKAGING,Karnaphuli Logistics.,2,"৳1,793",Pending,9
+PO-2025193,22 Mar 2025,Cement,Logistics,Delta Supply Co  ,98,"BDT 2,864.42",Delivered,39
+PO-2025152,,Jute, Office Supplies,Karnaphuli Logistics,89,304.52,Delivered,20
+PO-2025350,03-21-2026,Jute,Raw Material,Surma Materials Ltd.,457,4393.51,Cancelled,40
+PO-2025360,2026-06-17,Cement,Raw Material,Surma Materials Ltd ,248,৳871,Partially Delivered,39
+PO-2025226,2026-05-09,Textiles,MACHINERY PARTS,Karnaphuli Logistics ,399,"3,695.79",Cancelled,12
+PO-2025356,,Jute,LOGISTICS,Meghna Traders Ltd  ,92,"BDT 4,038.79",Partially Delivered,23
+PO-2025103,14 Sep 2025,Real Estate,RAW MATERIAL,Jamuna Enterprise,,"2,867.60",Delivered,21
+PO-2025419,24/01/2025,Jute,LOGISTICS,Surma Materials Ltd ,137,"3,817.06",Pending,33
+PO-2025074,05 May 2026,Cement,  packaging ,Padma Industrial ,470,"BDT 1,202.62",Pending,3
+PO-2025451,,Textiles,Raw Material,Padma Industrial  ,-82,"BDT 2,560.88",Pending,3
+PO-2025595,03/06/2025,Jute, Office Supplies,Delta Supply Co.,277,150.28,Pending,12
+PO-2025119,2025-01-26,Cement,  logistics ,Meghna Traders Ltd.,170,"৳4,777",Pending,22
+PO-2025415,2026-02-15,Cement, Packaging,Karnaphuli Logistics,145,3396.29,Cancelled,29
+PO-2025438,,Jute,Machinery Parts,Meghna Traders Ltd ,242,,Delivered,6
+PO-2025580,,Steel, Machinery Parts,Padma Industrial,477,2580.79,Cancelled,3
+PO-2025207,04-10-2025,Real Estate,Logistics,Karnaphuli Logistics ,137,৳698,Cancelled,4
+PO-2025357,2025-11-03,Jute, Machinery Parts,Karnaphuli Logistics  ,224,"BDT 2,023.29",Delivered,31
+PO-2025526,2026-03-24,Jute,MACHINERY PARTS,Karnaphuli Logistics.,303,"1,354.57",Partially Delivered,23
+PO-2025365,,Steel,Raw Material,Jamuna Enterprise ,354,2797.46,Partially Delivered,14
+PO-2025433,2025-07-11,Textiles,MACHINERY PARTS,Meghna Traders Ltd.,358,"৳4,496",Partially Delivered,15
+PO-2025008,03/03/2025,Steel,PACKAGING,Delta Supply Co,220,"2,381.93",Pending,30
+PO-2025404,05 Feb 2026,Cement, Logistics,Meghna Traders Ltd.,296,2875.12,Partially Delivered,22
+PO-2025036,,Steel,LOGISTICS,Padma Industrial,270,324.21,Delivered,2
+PO-2025139,2025-03-09,Cement,  machinery parts ,Jamuna Enterprise ,,"BDT 3,354.08",Partially Delivered,5
+PO-2025253,04-06-2025,Steel,Packaging,Delta Supply Co  ,11,"BDT 1,615.99",Partially Delivered,41
+PO-2025303,,Steel, Logistics,Meghna Traders Ltd ,41,"4,353.34",Pending,33
+PO-2025528,18/04/2026,Real Estate,  office supplies ,Meghna Traders Ltd.,428,"BDT 2,155.84",Delivered,14
+PO-2025059,,Jute,  office supplies ,Meghna Traders Ltd.,78,"৳3,686",Partially Delivered,23
+PO-2025111,12-01-2025,Cement,Office Supplies,Padma Industrial.,305,2790.03,Delivered,32
+PO-2025501,05-16-2025,Steel, Raw Material,Padma Industrial  ,430,"৳1,582",Partially Delivered,39
+PO-2025558,22/06/2026,Textiles,Raw Material,Padma Industrial ,127,3955.81,Delivered,14
+PO-2025380,14/02/2026,Real Estate,OFFICE SUPPLIES,Surma Materials Ltd ,123,"1,086.67",Cancelled,28
+PO-2025262,11-28-2025,Cement,  machinery parts ,Padma Industrial,241,"৳2,881",Cancelled,19
+PO-2025515,2025-05-30,Real Estate,  raw material ,Delta Supply Co.,468,"৳1,985",Pending,17
+PO-2025297,13/08/2025,Jute,  logistics ,Padma Industrial.,154,"4,496.96",Pending,10
+PO-2025150,2025-03-02,Cement, Logistics,Jamuna Enterprise.,355,৳923,Delivered,37
+PO-2025266,02-17-2025,Steel,OFFICE SUPPLIES,Surma Materials Ltd ,335,"BDT 1,731.69",Delivered,30
+PO-2025534,,Jute,  logistics ,Jamuna Enterprise ,4,BDT 119.93,Pending,12
+PO-2025359,14 Jul 2025,Steel, Machinery Parts,Karnaphuli Logistics  ,120,3373.45,Delivered,12
+PO-2025546,2025-06-17,Real Estate,OFFICE SUPPLIES,Jamuna Enterprise.,234,4619.96,Pending,25
+PO-2025038,05-15-2025,Steel,  raw material ,Padma Industrial.,321,"2,110.50",Cancelled,26
+PO-2025514,23/01/2025,Steel,Packaging,Delta Supply Co  ,479,"2,566.30",Pending,23
+PO-2025307,24 Jan 2025,Cement,Raw Material,Surma Materials Ltd ,449,"3,661.00",Cancelled,2
+PO-2025198,06/02/2025,Cement, Raw Material,Delta Supply Co,367,1178.44,Cancelled,27
+PO-2025497,,Real Estate,  packaging ,Karnaphuli Logistics,205,"৳4,677",Partially Delivered,36
+PO-2025381,07-25-2025,Cement,Raw Material,Delta Supply Co  ,139,"৳4,084",Delivered,20
+PO-2025146,15/12/2025,Textiles,Raw Material,Surma Materials Ltd  ,317,"BDT 1,326.15",Pending,14
+PO-2025503,2025-06-26,Real Estate,  office supplies ,Delta Supply Co.,202,"BDT 1,281.02",Pending,5
+PO-2025548,06 Jan 2026,Steel,  office supplies ,Meghna Traders Ltd ,256,1510.45,Partially Delivered,40
+PO-2025147,11-05-2025,Real Estate,Machinery Parts,Meghna Traders Ltd ,84,87.16,Partially Delivered,28
+PO-2025449,01 Nov 2025,Textiles,LOGISTICS,Surma Materials Ltd,339,"৳3,351",Pending,31
+PO-2025348,11/02/2026,Cement, Machinery Parts,Padma Industrial.,245,763.58,Delivered,3
+PO-2025325,23 Jan 2026,Steel,  logistics ,Delta Supply Co ,439,"BDT 1,646.19",Delivered,27
+PO-2025420,18/11/2025,Jute,  machinery parts ,Surma Materials Ltd,87,"4,980.28",Partially Delivered,8
+PO-2025123,08-18-2025,Textiles,Machinery Parts,Meghna Traders Ltd  ,49,"BDT 4,236.69",Cancelled,6
+PO-2025536,29 Mar 2025,Cement,Raw Material,Meghna Traders Ltd  ,121,"৳1,356",Pending,28
+PO-2025096,25 Feb 2025,Steel,Office Supplies,Jamuna Enterprise,,"4,778.98",Pending,30
+PO-2025143,2025-10-19,Steel,  packaging ,Meghna Traders Ltd,200,"৳4,382",Delivered,38
+PO-2025239,12-15-2025,Cement,OFFICE SUPPLIES,Karnaphuli Logistics,428,434.84,Partially Delivered,6
+PO-2025403,13/10/2025,Cement,Packaging,Surma Materials Ltd  ,140,"৳3,559",Delivered,17
+PO-2025097,08/06/2025,Textiles,  machinery parts ,Surma Materials Ltd ,21,"BDT 1,268.03",Delivered,38
+PO-2025371,,Textiles,OFFICE SUPPLIES,Karnaphuli Logistics,328,2594.54,Pending,29
+PO-2025324,,Textiles,  logistics ,Delta Supply Co  ,450,"3,642.22",Partially Delivered,40
+PO-2025279,07-08-2025,Textiles,  logistics ,Delta Supply Co,152,2359.22,Delivered,32
+PO-2025293,,Steel,Machinery Parts,Karnaphuli Logistics.,130,"৳3,009",Cancelled,4
+PO-2025587,,Real Estate,  machinery parts ,Padma Industrial ,291,1045.03,Pending,28
+PO-2025122,,Steel,Packaging,Surma Materials Ltd,53,"BDT 4,912.72",Partially Delivered,44
+PO-2025183,09-23-2025,Jute,Machinery Parts,Surma Materials Ltd  ,172,BDT 529.21,Delivered,27
+PO-2025202,,Real Estate, Machinery Parts,Meghna Traders Ltd,187,"BDT 3,748.99",Partially Delivered,28
+PO-2025323,08 May 2025,Real Estate,  packaging ,Delta Supply Co.,488,383.50,Cancelled,24
+PO-2025246,18 Jan 2025,Cement, Office Supplies,Jamuna Enterprise ,108,813.70,Pending,26
+PO-2025447,14/04/2025,Steel,  logistics ,Surma Materials Ltd  ,52,"BDT 2,539.83",Partially Delivered,40
+PO-2025030,,Cement,PACKAGING,Jamuna Enterprise.,143,"BDT 4,627.80",Cancelled,34
+PO-2025512,10 Dec 2025,Steel,OFFICE SUPPLIES,Jamuna Enterprise.,312,"৳2,406",Delivered,32
+PO-2025439,20/02/2025,Jute,  packaging ,Padma Industrial,80,3211.72,Partially Delivered,10
+PO-2025545,2025-08-25,Textiles,Office Supplies,Padma Industrial,324,"2,891.22",Delivered,6
+PO-2025417,2025-05-27,Textiles,OFFICE SUPPLIES,Surma Materials Ltd,498,852.79,Cancelled,13
+PO-2025125,24 Jan 2025,Textiles,  raw material ,Karnaphuli Logistics.,104,"৳4,711",Pending,28
+PO-2025402,15 Nov 2025,Textiles,LOGISTICS,Delta Supply Co,267,BDT 443.55,Delivered,6
+PO-2025456,,Real Estate,  raw material ,Surma Materials Ltd ,498,"BDT 2,580.31",Delivered,7
+PO-2025442,2025-01-15,Cement, Office Supplies,Karnaphuli Logistics ,461,৳176,Pending,4
+PO-2025223,09/04/2026,Real Estate,LOGISTICS,Jamuna Enterprise,433,"BDT 1,563.71",Partially Delivered,6
+PO-2025342,04-17-2026,Textiles,Machinery Parts,Meghna Traders Ltd ,16,3107.46,Cancelled,22
+PO-2025053,2026-01-26,Cement,MACHINERY PARTS,Karnaphuli Logistics  ,412,"1,512.03",Partially Delivered,25
+PO-2025219,2026-06-21,Cement,LOGISTICS,Padma Industrial  ,365,"৳3,785",Delivered,12
+PO-2025129,02-18-2025,Jute,Office Supplies,Delta Supply Co.,241,"4,768.37",Cancelled,
+PO-2025559,10 Apr 2025,Textiles,Machinery Parts,Padma Industrial  ,363,৳681,Delivered,41
+PO-2025422,25/01/2025,Textiles,MACHINERY PARTS,Surma Materials Ltd  ,36,BDT 331.72,Pending,4
+PO-2025479,,Cement, Raw Material,Surma Materials Ltd.,201,"BDT 3,626.27",Delivered,18
+PO-2025561,20 Jun 2026,Real Estate,PACKAGING,Karnaphuli Logistics ,260,631.52,Cancelled,38
+PO-2025424,2025-12-22,Steel, Machinery Parts,Meghna Traders Ltd.,336,"BDT 3,568.27",Partially Delivered,32
+PO-2025100,21 Aug 2025,Real Estate,  packaging ,Jamuna Enterprise ,276,"BDT 4,213.96",Cancelled,35
+PO-2025431,11/01/2026,Cement,Logistics,Karnaphuli Logistics  ,94,"৳4,049",Delivered,7
+PO-2025386,29 Mar 2025,Cement,Office Supplies,Delta Supply Co ,246,BDT 586.13,Pending,42
+PO-2025598,05/05/2026,Textiles, Packaging,Jamuna Enterprise.,461,"BDT 3,257.10",Pending,13
+PO-2025294,2025-07-24,Textiles,  machinery parts ,Delta Supply Co ,60,"৳4,688",Delivered,23
+PO-2025267,,Cement,LOGISTICS,Delta Supply Co,423,2624.36,Cancelled,17
+PO-2025494,,Real Estate,  office supplies ,Surma Materials Ltd.,,"BDT 2,146.75",Cancelled,5
+PO-2025444,07 Jan 2025,Jute, Machinery Parts,Jamuna Enterprise,486,"৳3,553",Pending,20
+PO-2025112,16/06/2026,Textiles, Raw Material,Jamuna Enterprise  ,75,"BDT 25,971.90",Cancelled,20
+PO-2025179,,Cement,Office Supplies,Karnaphuli Logistics.,187,৳550,Pending,41
+PO-2025450,28/06/2025,Cement,Machinery Parts,Surma Materials Ltd ,293,"৳3,255",Pending,31
+PO-2025493,07-07-2025,Jute,Raw Material,Meghna Traders Ltd ,185,"3,094.92",Cancelled,42
+PO-2025481,,Cement,Office Supplies,Delta Supply Co,441,4758.84,Cancelled,20
+PO-2025373,03-28-2026,Steel,  packaging ,Jamuna Enterprise.,355,"৳3,712",Delivered,5
+PO-2025314,2025-06-05,Textiles,Logistics,Delta Supply Co,444,"4,275.47",Cancelled,4
+PO-2025151,2025-01-01,Cement,  machinery parts ,Karnaphuli Logistics  ,496,4997.14,Cancelled,14
+PO-2025171,01-17-2025,Steel,Packaging,Karnaphuli Logistics.,295,"৳1,825",Delivered,33
+PO-2025233,03/07/2025,Jute,  raw material ,Delta Supply Co,479,"৳3,565",Delivered,4
+PO-2025306,15/04/2025,Steel,  office supplies ,Meghna Traders Ltd.,486,"BDT 3,555.51",Cancelled,28
+PO-2025457,01-22-2026,Textiles, Machinery Parts,Karnaphuli Logistics.,29,"4,258.90",Cancelled,17
+PO-2025164,,Cement, Machinery Parts,Jamuna Enterprise.,415,"৳4,681",Cancelled,22
+PO-2025317,,Real Estate,Raw Material,Karnaphuli Logistics  ,153,"1,291.72",Partially Delivered,21
+PO-2025136,,Jute,RAW MATERIAL,Delta Supply Co  ,423,BDT 249.26,Partially Delivered,34
+PO-2025410,2025-08-10,Textiles,RAW MATERIAL,Delta Supply Co,-325,3671.55,Partially Delivered,9
+PO-2025197,14/10/2025,Textiles, Raw Material,Delta Supply Co.,260,"৳2,566",Delivered,43
+PO-2025570,,Real Estate,  machinery parts ,Karnaphuli Logistics.,142,"4,093.89",Partially Delivered,3
+PO-2025258,2025-12-14,Steel,  machinery parts ,Surma Materials Ltd,124,"BDT 3,894.41",Pending,28
+PO-2025232,01 Feb 2026,Steel,Logistics,Padma Industrial  ,442,"1,118.83",Pending,
+PO-2025115,02-17-2025,Real Estate, Machinery Parts,Meghna Traders Ltd ,371,"3,669.12",Partially Delivered,39
+PO-2025120,20 Apr 2025,Cement, Logistics,Delta Supply Co,487,"2,633.96",Cancelled,9
+PO-2025463,22/05/2026,Real Estate, Office Supplies,Padma Industrial  ,193,"3,769.05",Cancelled,14
+PO-2025507,25 Jun 2025,Real Estate,  logistics ,Karnaphuli Logistics ,5,809.93,Delivered,3
+PO-2025376,14 Aug 2025,Steel,  raw material ,Delta Supply Co ,20,BDT 190.05,Cancelled,34
+PO-2025384,,Textiles,  raw material ,Jamuna Enterprise ,217,636.50,Delivered,
+PO-2025224,29 Jan 2026,Jute,  office supplies ,Delta Supply Co ,487,4389.56,Partially Delivered,20
+PO-2025585,05-23-2026,Real Estate,  office supplies ,Meghna Traders Ltd  ,295,,Delivered,35
+PO-2025488,21 Aug 2025,Textiles,MACHINERY PARTS,Delta Supply Co,429,"৳1,522",Cancelled,23
+PO-2025347,2025-09-25,Jute,Logistics,Jamuna Enterprise ,45,2063.94,Cancelled,32
+PO-2025127,,Steel,OFFICE SUPPLIES,Padma Industrial  ,265,"BDT 1,279.61",Partially Delivered,16
+PO-2025078,04 Aug 2025,Cement,Machinery Parts,Surma Materials Ltd,499,,Cancelled,41
+PO-2025445,2026-04-25,Steel, Logistics,Padma Industrial  ,,"৳1,154",Pending,10
+PO-2025285,20 Jun 2026,Cement,MACHINERY PARTS,Surma Materials Ltd.,176,"৳2,546",Partially Delivered,41
+PO-2025569,02 Apr 2026,Steel,RAW MATERIAL,Padma Industrial  ,338,৳201,Partially Delivered,5
+PO-2025043,07/04/2026,Real Estate,Raw Material,Meghna Traders Ltd  ,240,"BDT 1,675.39",Pending,34
+PO-2025107,12 Jun 2025,Jute,Logistics,Delta Supply Co.,369,"৳1,620",Delivered,4
+PO-2025522,02-26-2025,Real Estate,  office supplies ,Delta Supply Co ,187,"BDT 3,359.05",Delivered,3
+PO-2025556,08/02/2025,Textiles, Packaging,Delta Supply Co  ,339,"BDT 1,076.50",Delivered,21
+PO-2025133,14/05/2026,Steel,  machinery parts ,Surma Materials Ltd ,265,"৳32,131",Cancelled,20
+PO-2025440,01 Dec 2025,Cement,LOGISTICS,Padma Industrial  ,360,2916.18,Delivered,39
+PO-2025061,2025-07-23,Real Estate, Logistics,Meghna Traders Ltd ,490,2319.88,Partially Delivered,25
+PO-2025044,12-08-2025,Jute,Packaging,Meghna Traders Ltd  ,37,"3,687.72",Pending,14
+PO-2025169,,Jute,Raw Material,Jamuna Enterprise  ,288,"BDT 4,040.65",Partially Delivered,43
+PO-2025065,15/09/2025,Real Estate, Raw Material,Padma Industrial ,237,1166.68,Pending,28
+PO-2025283,22/01/2025,Real Estate,OFFICE SUPPLIES,Surma Materials Ltd ,472,"1,239.23",Pending,6
+PO-2025085,,Textiles, Logistics,Jamuna Enterprise.,337,3580.63,Delivered,
+PO-2025242,,Cement, Raw Material,Padma Industrial ,165,"3,727.39",Pending,20
+PO-2025186,29/03/2026,Real Estate,Logistics,Surma Materials Ltd.,455,346.13,Cancelled,7
+PO-2025326,2025-12-29,Jute, Packaging,Jamuna Enterprise.,378,"4,988.45",Pending,4
+PO-2025159,06-18-2026,Steel,  office supplies ,Delta Supply Co.,327,"BDT 2,271.21",Delivered,28
+PO-2025012,28 Sep 2025,Textiles, Packaging,Surma Materials Ltd.,469,"3,496.79",Cancelled,8
+PO-2025035,04-14-2025,Real Estate,  raw material ,Jamuna Enterprise  ,412,"1,586.16",Pending,21
+PO-2025028,10 Jun 2025,Jute,Packaging,Meghna Traders Ltd,253,"৳3,487",Delivered,37
+PO-2025170,07-25-2025,Real Estate,Logistics,Surma Materials Ltd.,402,"৳2,945",Delivered,19
+PO-2025142,02-07-2026,Jute,PACKAGING,Delta Supply Co,128,"BDT 3,146.12",Partially Delivered,
+PO-2025236,08/02/2025,Cement,  logistics ,Karnaphuli Logistics  ,31,৳417,Delivered,44
+PO-2025496,22/04/2026,Textiles,RAW MATERIAL,Jamuna Enterprise  ,367,"4,344.61",Delivered,18
+PO-2025516,,Real Estate, Machinery Parts,Surma Materials Ltd.,41,"BDT 2,376.33",Cancelled,13
+PO-2025579,2026-05-12,Jute,Office Supplies,Padma Industrial  ,470,"BDT 4,701.62",Cancelled,
+PO-2025221,,Cement,Packaging,Padma Industrial  ,471,2040.14,Cancelled,35
+PO-2025590,,Steel,OFFICE SUPPLIES,Delta Supply Co.,357,,Pending,
+PO-2025095,28 May 2026,Real Estate, Office Supplies,Karnaphuli Logistics.,497,3389.26,Partially Delivered,15
+PO-2025051,,Steel,  logistics ,Karnaphuli Logistics  ,468,"BDT 3,912.49",Delivered,20
+PO-2025240,09 Jun 2025,Real Estate,Logistics,Karnaphuli Logistics ,492,"1,484.68",Delivered,26
+PO-2025524,22/02/2026,Steel, Machinery Parts,Delta Supply Co,215,"1,128.29",Delivered,12
+PO-2025351,21/01/2026,Steel,  raw material ,Jamuna Enterprise  ,280,"BDT 1,745.88",Partially Delivered,25
+PO-2025532,24 Sep 2025,Steel,Raw Material,Jamuna Enterprise,483,BDT 482.33,Delivered,30
+PO-2025178,2025-09-26,Steel,LOGISTICS,Jamuna Enterprise  ,108,"BDT 4,828.81",Delivered,25
+PO-2025460,05-23-2025,Jute,RAW MATERIAL,Delta Supply Co  ,381,250.14,Cancelled,10
+PO-2025542,31/08/2025,Jute,  packaging ,Meghna Traders Ltd.,327,"4,255.80",Cancelled,37
+PO-2025041,2026-02-28,Steel,Office Supplies,Jamuna Enterprise.,193,"3,215.84",Cancelled,16
+PO-2025571,02-13-2026,Textiles,MACHINERY PARTS,Karnaphuli Logistics  ,254,"৳2,419",Partially Delivered,44
+PO-2025538,03 May 2026,Textiles, Raw Material,Padma Industrial,366,"BDT 4,737.12",Cancelled,36
+PO-2025206,11/05/2025,Cement,Machinery Parts,Padma Industrial  ,170,BDT 922.96,Cancelled,17
+PO-2025392,2025-04-23,Jute,Raw Material,Padma Industrial ,456,"4,415.44",Partially Delivered,26
+PO-2025282,02/03/2025,Textiles,OFFICE SUPPLIES,Padma Industrial ,,"BDT 2,689.59",Cancelled,13
+PO-2025358,07/02/2026,Real Estate, Logistics,Padma Industrial  ,33,"৳4,013",Cancelled,16
+PO-2025397,20 Jun 2026,Jute,MACHINERY PARTS,Jamuna Enterprise ,92,"BDT 2,372.21",Partially Delivered,10
+PO-2025254,11 Nov 2025,Steel,LOGISTICS,Padma Industrial  ,402,4251.52,Pending,2
+PO-2025517,01/11/2025,Real Estate, Raw Material,Meghna Traders Ltd ,3,"3,119.56",Cancelled,13
+PO-2025217,,Cement, Raw Material,Surma Materials Ltd,198,3748.03,Cancelled,33
+PO-2025004,2026-05-14,Textiles, Packaging,Delta Supply Co,372,"BDT 4,839.17",Cancelled,31
+PO-2025549,,Textiles,PACKAGING,Karnaphuli Logistics,356,3652.97,Pending,28
+PO-2025098,02 Mar 2025,Textiles, Raw Material,Jamuna Enterprise  ,318,৳350,Delivered,18
+PO-2025406,2025-11-30,Steel,  machinery parts ,Jamuna Enterprise  ,455,962.33,Partially Delivered,2
+PO-2025502,2025-12-07,Cement,RAW MATERIAL,Surma Materials Ltd  ,232,1751.89,Cancelled,22
+PO-2025047,,Textiles,  raw material ,Jamuna Enterprise ,86,"BDT 2,846.51",Partially Delivered,24
+PO-2025032,06-06-2026,Cement,Office Supplies,Surma Materials Ltd,332,"BDT 4,155.67",Partially Delivered,6
+PO-2025200,08 Apr 2026,Cement,  logistics ,Karnaphuli Logistics ,385,"BDT 1,770.98",Cancelled,29
+PO-2025134,03-07-2026,Real Estate, Office Supplies,Delta Supply Co  ,65,804.02,Cancelled,32
+PO-2025027,09/06/2026,Textiles, Packaging,Padma Industrial ,250,"৳7,623",Cancelled,23
+PO-2025540,24 Jul 2025,Textiles,Packaging,Meghna Traders Ltd ,21,"2,239.83",Cancelled,37
+PO-2025230,2025-09-03,Textiles,Logistics,Delta Supply Co ,110,"৳3,574",Partially Delivered,34
+PO-2025489,,Steel, Packaging,Meghna Traders Ltd  ,444,"৳4,403",Partially Delivered,19
+PO-2025378,,Textiles,Raw Material,Jamuna Enterprise  ,406,"BDT 3,694.95",Pending,17
+PO-2025288,10-08-2025,Jute,Packaging,Delta Supply Co.,428,534.52,Cancelled,43
+PO-2025418,05-29-2025,Jute,OFFICE SUPPLIES,Meghna Traders Ltd ,271,687.94,Pending,31
+PO-2025391,2025-11-23,Cement,  logistics ,Surma Materials Ltd ,30,"2,969.46",Partially Delivered,26
+PO-2025498,,Jute, Office Supplies,Jamuna Enterprise  ,410,"BDT 4,006.81",Delivered,11
+PO-2025138,,Cement,Logistics,Surma Materials Ltd ,254,"4,540.08",Delivered,13
+PO-2025062,,Real Estate, Office Supplies,Karnaphuli Logistics.,209,"3,513.89",Pending,26
+PO-2025471,2026-03-31,Textiles,  office supplies ,Padma Industrial.,55,"৳1,936",Partially Delivered,43
+PO-2025128,,Steel, Logistics,Delta Supply Co,141,2672.24,Pending,23
+PO-2025419,24/01/2025,Jute,LOGISTICS,Surma Materials Ltd ,137,"3,817.06",Pending,33
+PO-2025520,16 Aug 2025,Real Estate,MACHINERY PARTS,Padma Industrial,128,755.17,Cancelled,33
+PO-2025064,09/12/2025,Jute,RAW MATERIAL,Surma Materials Ltd  ,485,"2,073.48",Cancelled,19
+PO-2025014,,Textiles, Logistics,Karnaphuli Logistics.,131,"BDT 2,274.34",Cancelled,32
+PO-2025156,21/03/2026,Jute,Raw Material,Surma Materials Ltd  ,277,"4,105.04",Delivered,25
+PO-2025040,02-25-2026,Cement,  office supplies ,Padma Industrial  ,314,"3,906.03",Pending,29
+PO-2025492,,Steel, Office Supplies,Meghna Traders Ltd,27,3702.39,Partially Delivered,27
+PO-2025379,2025-12-14,Cement,  raw material ,Surma Materials Ltd.,476,1388.83,Cancelled,29
+PO-2025187,18/01/2026,Cement,MACHINERY PARTS,Delta Supply Co.,199,2252.83,Pending,10
+PO-2025216,,Cement,OFFICE SUPPLIES,Padma Industrial  ,286,"4,970.68",Pending,26
+PO-2025052,05 Mar 2025,Jute,  raw material ,Karnaphuli Logistics  ,136,,Partially Delivered,38
+PO-2025337,01/11/2025,Jute, Packaging,Jamuna Enterprise.,404,3149.49,Delivered,17
+PO-2025295,08-28-2025,Steel,  office supplies ,Karnaphuli Logistics ,236,৳566,Cancelled,8
+PO-2025251,12-10-2025,Steel,OFFICE SUPPLIES,Delta Supply Co ,274,2825.85,Partially Delivered,20
+PO-2025461,2025-05-23,Textiles, Packaging,Karnaphuli Logistics  ,,4117.12,Pending,29
+PO-2025455,26/09/2025,Textiles,  office supplies ,Padma Industrial  ,453,4396.05,Partially Delivered,35
+PO-2025234,12/12/2025,Steel,  logistics ,Karnaphuli Logistics  ,155,"৳4,446",Cancelled,10
+PO-2025269,24 Apr 2025,Real Estate,  machinery parts ,Jamuna Enterprise ,,"৳2,101",Delivered,16
+PO-2025201,06/12/2025,Jute, Raw Material,Karnaphuli Logistics ,406,"2,553.52",Delivered,18
+PO-2025161,2025-09-08,Cement,  packaging ,Padma Industrial,14,৳295,Delivered,6
+PO-2025401,2026-02-11,Jute,Raw Material,Padma Industrial ,49,"BDT 4,154.64",Pending,30
+PO-2025476,05/10/2025,Steel, Logistics,Delta Supply Co,261,2544.47,Pending,32
+PO-2025105,12 Feb 2025,Real Estate, Logistics,Delta Supply Co.,181,4075.14,Delivered,29
+PO-2025389,01 Aug 2025,Real Estate, Packaging,Jamuna Enterprise ,284,"3,536.76",Pending,37
+PO-2025001,2026-03-01,Real Estate,Raw Material,Karnaphuli Logistics,257,"৳2,279",Pending,7
+PO-2025575,,Steel, Raw Material,Karnaphuli Logistics  ,,"BDT 3,583.61",Delivered,22
+PO-2025080,,Jute,  raw material ,Jamuna Enterprise.,401,"2,413.65",Pending,28
+PO-2025205,22/03/2025,Textiles,  logistics ,Surma Materials Ltd,35,"৳2,432",Partially Delivered,13
+PO-2025034,,Real Estate,Raw Material,Surma Materials Ltd ,135,3742.77,Delivered,12
+PO-2025508,01-09-2025,Jute, Office Supplies,Karnaphuli Logistics.,137,,Pending,21
+PO-2025427,2026-01-13,Cement,MACHINERY PARTS,Delta Supply Co ,108,"BDT 1,970.87",Partially Delivered,29
+PO-2025454,05-16-2026,Textiles,Machinery Parts,Surma Materials Ltd.,425,BDT 595.34,Delivered,5
+PO-2025366,05-19-2025,Cement,RAW MATERIAL,Meghna Traders Ltd ,353,"2,897.71",Partially Delivered,22
+PO-2025091,14/02/2025,Steel, Raw Material,Meghna Traders Ltd,34,"1,049.80",Delivered,40
+PO-2025339,26 Feb 2026,Steel,  raw material ,Karnaphuli Logistics  ,72,BDT 111.37,Cancelled,18
+PO-2025564,2025-02-08,Real Estate, Office Supplies,Meghna Traders Ltd ,-96,"BDT 3,438.41",Delivered,43
+PO-2025345,04 Jun 2025,Textiles,Packaging,Delta Supply Co  ,-418,৳430,Delivered,10
+PO-2025241,26/06/2025,Jute,  machinery parts ,Delta Supply Co.,347,"3,390.01",Delivered,44
+PO-2025013,2026-06-03,Textiles,Packaging,Karnaphuli Logistics,44,৳634,Pending,13
+PO-2025315,16/01/2025,Jute,Machinery Parts,Delta Supply Co ,250,"BDT 4,946.01",Partially Delivered,6
+PO-2025387,,Real Estate,RAW MATERIAL,Jamuna Enterprise  ,493,BDT 487.77,Cancelled,20
+PO-2025273,05-26-2025,Jute,Office Supplies,Meghna Traders Ltd.,464,"৳4,906",Cancelled,5
+PO-2025166,,Real Estate,Machinery Parts,Meghna Traders Ltd,172,323.59,Pending,17
+PO-2025109,06 Nov 2025,Cement, Packaging,Karnaphuli Logistics.,448,"4,407.88",Delivered,7
+PO-2025484,2026-06-05,Steel,Packaging,Meghna Traders Ltd.,253,"BDT 1,423.68",Pending,28
+PO-2025077,,Steel,  office supplies ,Surma Materials Ltd,454,"৳2,956",Pending,2
+PO-2025504,08/06/2025,Jute,Raw Material,Delta Supply Co.,315,4702.37,Pending,23
+PO-2025243,,Steel,OFFICE SUPPLIES,Delta Supply Co  ,250,3117.61,Partially Delivered,7
+PO-2025566,,Jute,  machinery parts ,Karnaphuli Logistics  ,366,"BDT 3,876.34",Partially Delivered,28
+PO-2025562,27/02/2025,Jute, Office Supplies,Karnaphuli Logistics.,47,"BDT 3,743.60",Pending,28
+PO-2025189,05/12/2025,Real Estate,  packaging ,Karnaphuli Logistics ,64,"৳3,989",Pending,34
+PO-2025475,02 Jun 2025,Cement,MACHINERY PARTS,Delta Supply Co.,172,"৳2,620",Pending,20
+PO-2025510,24 Jan 2026,Real Estate,  office supplies ,Delta Supply Co ,216,"1,981.78",Pending,19
+PO-2025058,29/03/2026,Textiles,Machinery Parts,Padma Industrial,223,1048.82,Pending,3
+PO-2025474,,Steel,MACHINERY PARTS,Padma Industrial ,326,"BDT 2,426.40",Delivered,22
+PO-2025560,,Textiles,  logistics ,Karnaphuli Logistics ,84,"৳2,492",Partially Delivered,4
+PO-2025252,06-28-2025,Steel,Logistics,Delta Supply Co.,264,984.13,Partially Delivered,7
+PO-2025021,,Steel, Logistics,Surma Materials Ltd,330,"3,648.62",Pending,
+PO-2025313,2026-01-29,Real Estate,MACHINERY PARTS,Padma Industrial ,474,"BDT 3,632.54",Partially Delivered,
+PO-2025459,30 Aug 2025,Real Estate,MACHINERY PARTS,Karnaphuli Logistics  ,124,,Delivered,15
+PO-2025160,04-30-2025,Real Estate,MACHINERY PARTS,Meghna Traders Ltd  ,237,1480.96,Cancelled,30
+PO-2025276,,Textiles, Logistics,Delta Supply Co.,365,"৳4,857",Delivered,23
+PO-2025191,,Textiles,  office supplies ,Padma Industrial  ,223,"4,656.89",Partially Delivered,37
+PO-2025385,15/05/2025,Real Estate, Logistics,Padma Industrial  ,63,513.15,Cancelled,
+PO-2025413,03-08-2026,Textiles,Packaging,Karnaphuli Logistics  ,459,"4,380.37",Pending,
+PO-2025491,26 Nov 2025,Cement, Logistics,Karnaphuli Logistics ,369,"৳1,762",Partially Delivered,14
+PO-2025343,23 Jan 2025,Textiles,  office supplies ,Jamuna Enterprise.,-363,"৳3,292",Partially Delivered,6
+PO-2025308,,Cement,Packaging,Karnaphuli Logistics  ,162,2632.49,Pending,18
+PO-2025130,25 Jul 2025,Cement, Office Supplies,Surma Materials Ltd  ,60,"BDT 4,588.40",Pending,30
+PO-2025099,,Textiles,Machinery Parts,Surma Materials Ltd ,-1,604.75,Cancelled,19
+PO-2025372,,Jute,Logistics,Meghna Traders Ltd,176,1122.34,Cancelled,25
+PO-2025087,15 Feb 2026,Real Estate,OFFICE SUPPLIES,Delta Supply Co  ,201,"৳4,483",Partially Delivered,40
+PO-2025458,10-13-2025,Jute, Machinery Parts,Padma Industrial,339,"৳4,398",Delivered,5
+PO-2025330,06-09-2025,Real Estate, Raw Material,Karnaphuli Logistics,169,"৳2,259",Delivered,35
+PO-2025214,2025-03-17,Real Estate,  logistics ,Meghna Traders Ltd  ,150,4081.65,Cancelled,31
+PO-2025466,04-18-2025,Steel,LOGISTICS,Delta Supply Co.,375,"3,398.15",Delivered,
+PO-2025121,13 May 2025,Real Estate,Logistics,Delta Supply Co,326,"৳2,503",Pending,35
+PO-2025020,01-12-2025,Textiles, Logistics,Karnaphuli Logistics ,182,4486.00,Pending,37
+PO-2025071,03-19-2025,Textiles, Logistics,Padma Industrial  ,-352,"BDT 1,969.82",Pending,32
+PO-2025106,06-21-2025,Jute,Machinery Parts,Jamuna Enterprise ,-411,197.68,Cancelled,5
+PO-2025270,2025-12-18,Real Estate,Logistics,Karnaphuli Logistics,380,118.20,Pending,6
+PO-2025435,,Textiles, Logistics,Meghna Traders Ltd  ,337,"4,029.81",Pending,3
+PO-2025102,01-26-2025,Jute, Machinery Parts,Surma Materials Ltd.,,"৳45,982",Delivered,7
