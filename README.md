@@ -19,7 +19,7 @@ governance policy document requires.
 The agent chaining two tools — a database query and a policy lookup — to
 answer a question neither tool could answer alone:
 
-![Agent answering a multi-step question](docs/images/agent-lead-time-demo.png)
+![Agent answering a multi-step question](docs/images/agent-trace.png)
 
 Evaluation results, scoring factual accuracy and tool-routing correctness
 against independently computed ground truth:
