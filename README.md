@@ -14,6 +14,20 @@ governance policy document requires.
 
 ---
 
+## Demo
+
+The agent chaining two tools — a database query and a policy lookup — to
+answer a question neither tool could answer alone:
+
+![Agent answering a multi-step question](docs/images/agent-lead-time-demo.png)
+
+Evaluation results, scoring factual accuracy and tool-routing correctness
+against independently computed ground truth:
+
+![Evaluation summary](docs/images/eval-results.png)
+
+---
+
 ## What it actually does
 
 Ask it: *"What's the median lead time for Cement, and does it comply with our
@@ -78,23 +92,24 @@ bill at any stage of this project.
 
 ## Project layout
 
-```
-opsagent/
+operations-ai-agent/
 ├── src/
-│   ├── make_sample_data.py  # generates messy synthetic data + policy docs
-│   ├── data_prep.py         # Pandas/NumPy cleaning -> SQLite + quality report
-│   ├── tools.py             # the 4 agent tools (+ read-only SQL guards)
-│   ├── agent.py             # agentic core: tool calling, memory, multi-step
-│   ├── evaluate.py          # evaluation harness with golden dataset
-│   └── app.py               # Streamlit chat UI showing the reasoning trace
-├── tests/test_tools.py      # 31 offline tests, no Ollama server needed
-├── docs/ARCHITECTURE.md     # solution architecture and design rationale
+│ ├── make_sample_data.py # generates messy synthetic data + policy docs
+│ ├── data_prep.py # Pandas/NumPy cleaning -> SQLite + quality report
+│ ├── tools.py # the 4 agent tools (+ read-only SQL guards)
+│ ├── agent.py # agentic core: tool calling, memory, multi-step
+│ ├── evaluate.py # evaluation harness with golden dataset
+│ └── app.py # Streamlit chat UI showing the reasoning trace
+├── tests/test_tools.py # 31 offline tests, no Ollama server needed
+├── docs/
+│ ├── ARCHITECTURE.md # solution architecture and design rationale
+│ └── images/ # demo screenshots
 ├── data/
-│   ├── raw/                 # messy source CSV
-│   ├── docs/                # company policy documents
-│   └── processed/           # cleaned CSV + SQLite DB (generated)
-└── evals/results.csv        # evaluation output (generated)
-```
+│ ├── raw/ # messy source CSV
+│ ├── docs/ # company policy documents
+│ └── processed/ # cleaned CSV + SQLite DB (generated)
+└── evals/results.csv # evaluation output (generated)
+
 
 ## The data cleaning problem
 
@@ -118,9 +133,8 @@ agent is prompted to say when a total excludes incomplete rows.
 
 ## Evaluation
 
-```
 python src/evaluate.py
-```
+
 
 Scores 8 golden questions on two dimensions:
 
